@@ -37,6 +37,7 @@ if __name__ == '__main__':
 
         for items in lst:
             f.write('%s\n' % items)
+            
     f = open('conversion.txt', 'r')
 
     print("The first IP address in Decimal, Binary, Octal and hexadecimal format is", f.readline().strip(), f.readline().strip(), f.readline().strip(), f.readline().strip())
@@ -49,4 +50,5 @@ if __name__ == '__main__':
     print("The eighth IP address in Decimal, Binary, Octal and hexadecimal format is", f.readline().strip(), f.readline().strip(), f.readline().strip(), f.readline().strip())
     print("The ninth IP address in Decimal, Binary, Octal and hexadecimal format is", f.readline().strip(), f.readline().strip(), f.readline().strip(), f.readline().strip())
     print("The tenth IP address in Decimal, Binary, Octal and hexadecimal format is", f.readline().strip(),  f.readline().strip(), f.readline().strip(), f.readline().strip())
+   
     f.close()
