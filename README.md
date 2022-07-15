@@ -10,3 +10,10 @@ Task 3: Convert the ipv4 addresses which are in decimal format to Binary, Octal 
 Task 4:Create a list which will hold the addresses. [Decimal, Binary, Octal and Hexadecimal] 
 Task 5: Transfer the contents of the list to a file named conversion.txt 
 Task 6: Print the following output on the screen.
+
+--------------------------------------------------------------------------------------
+The first IP address in Decimal, Binary, Octal and hexadecimal format is <output from the file conversion. txt>
+The second IP address in Decimal, Binary, Octal and hexadecimal format is <output from the file conversion. txt>
+…
+<The tenth IP address in Decimal, Binary, Octal and hexadecimal format is <output from the file conversion. txt>
+----------------------------------------------------------------------------------------
